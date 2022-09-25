@@ -1,5 +1,7 @@
 ## About Project:
 
+[Go Live Buddy!](https://tushar-ojha-street-style-landing-page.netlify.app/)
+
 ### Given design:
 ![Design Image](/Design.png "Design Title")
 

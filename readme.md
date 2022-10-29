@@ -5,7 +5,7 @@
 ## About Project: ![Technology Badge](https://img.shields.io/badge/Technology-HTML%20%7C%20CSS-green)
   ### This project is "assignment 1" of HTML, CSS module of Full Stack Javascript Web Developer Bootcamp by [Hitesh Choudhary](https://www.youtube.com/c/HiteshChoudharydotcom) on [inueron.ai](https://ineuron.ai/) platform. 
   
-  ![Design Image](/html-css logo.png)
+  ![Design Image](html-css logo.png)
   
 #### Requirement/Problem statement: 
 - To convert a given design (PNG file attached at the end) into HTML, CSS code.

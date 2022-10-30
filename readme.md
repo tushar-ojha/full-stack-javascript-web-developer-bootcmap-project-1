@@ -2,8 +2,6 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/08792b0d-05a4-4f99-97ad-0f08934f1468/deploy-status)](https://app.netlify.com/sites/tushar-ojha-web-design-landing-page/deploys)
 
-[Go Live Buddy!](https://tushar-ojha-street-style-landing-page.netlify.app/)
-
 ## About Project: ![Technology Badge](https://img.shields.io/badge/Technology-HTML%20%7C%20CSS-green)
   ### This project is "assignment 1" of HTML, CSS module of Full Stack Javascript Web Developer Bootcamp by [Hitesh Choudhary](https://www.youtube.com/c/HiteshChoudharydotcom) on [ineuron.ai](https://ineuron.ai/) platform. 
   

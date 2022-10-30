@@ -4,7 +4,7 @@
 
 ## About Project: 
   ![Technology Badge](https://img.shields.io/badge/Technology-HTML%20%7C%20CSS-green)
-  ### This project is "assignment 1" of HTML, CSS module of Full Stack Javascript Web Developer Bootcamp by [Hitesh Choudhary](https://www.youtube.com/c/HiteshChoudharydotcom) on [ineuron.ai](https://ineuron.ai/) platform. 
+  ### This project is "assignment 1" of HTML, CSS module of [Full Stack Javascript Web Developer Bootcamp](https://ineuron.ai/course/Full-Stack-Javascript-Web-Developer) by [Hitesh Choudhary](https://www.youtube.com/c/HiteshChoudharydotcom) on [ineuron.ai](https://ineuron.ai/) platform. 
   
   
 #### Requirement/Problem statement: 
